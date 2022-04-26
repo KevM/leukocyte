@@ -126,6 +126,9 @@ Let's do that with a `free_build_banned` role:
  
 With that, all our protection should be set up nicely! :)
 
+### Roles 
+
+The player account creating an authority is by default not affected by the authority rules. To change this.....
 ### testing! querying and checking rules
 Okay, we've set up authorities, but how can we easily check which rules are set and by what?
 
